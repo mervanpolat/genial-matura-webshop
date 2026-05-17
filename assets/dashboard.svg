@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+<title id="title">Genial Matura Dashboard Mockup</title><desc id="desc">Ein Dashboard mit Lernfortschritt, Matura-Training und Quizmodus.</desc>
+<rect width="900" height="560" rx="34" fill="#E2E8F0"/>
+<rect x="36" y="38" width="828" height="484" rx="28" fill="#FFFFFF"/>
+<rect x="36" y="38" width="220" height="484" rx="28" fill="#0F172A"/>
+<rect x="70" y="72" width="52" height="52" rx="15" fill="#EDE9FE"/>
+<path d="M105 86c-7-7-22-4-26 7-7 17 12 32 26 21 7-5 9-12 7-21H94" fill="none" stroke="#6D28D9" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="136" y="104" font-family="Arial" font-size="23" font-weight="700" fill="#FFFFFF">Genial Matura</text>
+<rect x="68" y="156" width="150" height="34" rx="10" fill="#1E293B"/>
+<rect x="68" y="210" width="122" height="26" rx="9" fill="#334155"/>
+<rect x="68" y="256" width="132" height="26" rx="9" fill="#334155"/>
+<text x="294" y="105" font-family="Arial" font-size="36" font-weight="800" fill="#0F172A">Matura-Lernpaket</text>
+<text x="294" y="140" font-family="Arial" font-size="18" fill="#475569">Interaktive Vorbereitung mit Quiz und Lernpfaden</text>
+<rect x="294" y="185" width="240" height="132" rx="22" fill="#EDE9FE"/>
+<rect x="562" y="185" width="240" height="132" rx="22" fill="#DCFCE7"/>
+<text x="322" y="231" font-family="Arial" font-size="22" font-weight="700" fill="#4C1D95">84%</text>
+<text x="322" y="267" font-family="Arial" font-size="16" fill="#4C1D95">Lernfortschritt</text>
+<text x="590" y="231" font-family="Arial" font-size="22" font-weight="700" fill="#166534">12</text>
+<text x="590" y="267" font-family="Arial" font-size="16" fill="#166534">Matura-Simulationen</text>
+<rect x="294" y="356" width="508" height="36" rx="12" fill="#E2E8F0"/>
+<rect x="294" y="356" width="387" height="36" rx="12" fill="#6D28D9"/>
+<rect x="294" y="422" width="126" height="42" rx="12" fill="#6D28D9"/>
+<text x="324" y="449" font-family="Arial" font-size="16" font-weight="700" fill="#FFFFFF">Start</text>
+</svg>
